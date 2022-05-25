@@ -154,3 +154,19 @@
             text-transform: uppercase;
             border: none;
         }
+
+        .navbar {
+            background-color: #0803034d;
+        }
+
+        .navbar-container ul li {
+            display: inline-block;
+            padding: 20px;
+            text-transform: uppercase;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .navbar-home {
+            background-color: orange;
+        }
