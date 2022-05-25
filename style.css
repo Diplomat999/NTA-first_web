@@ -118,7 +118,7 @@
 
         .header-user {
             float: right;
-            width: 35%;
+            width: 25%;
         }
 
         .header-text {
@@ -143,12 +143,12 @@
         }
 
         .contact {
-            float: left;
+            float: right;
             background-color: #d6601c;
             color: #ffffff;
             font-style: italic;
             font-size: 10px;
-            width: 45%;
+            width: 65%;
             height: 50px;
             text-transform: uppercase;
             border: none;
